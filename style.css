@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.head{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+.div{
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./Car_ms_18d00a1dc7.jpg);
+}
+.box{
+    background-color: black;
+    width: 250px;
+    color: white;
+    padding: 10px;
+    height: 100vh;
+    font-size: medium;
+}
